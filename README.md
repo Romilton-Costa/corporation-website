@@ -1,1 +1,1 @@
-### website empresarial criado em boostrap
+### website empresarial criado em bootstrap
